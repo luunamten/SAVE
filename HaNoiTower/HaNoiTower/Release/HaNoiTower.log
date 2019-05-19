@@ -1,0 +1,10 @@
+﻿  Main.cpp
+  tower.cpp
+tower.cpp(165): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+tower.cpp(167): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+tower.cpp(173): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  All 215 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  HaNoiTower.vcxproj -> E:\Cworkspace\HaNoiTower\Release\HaNoiTower.exe
+  HaNoiTower.vcxproj -> E:\Cworkspace\HaNoiTower\Release\HaNoiTower.pdb (Full PDB)

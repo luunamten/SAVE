@@ -1,0 +1,6 @@
+E:\Cworkspace\GameCs\GameCs\bin\Debug\GameCs.exe.config
+E:\Cworkspace\GameCs\GameCs\bin\Debug\GameCs.exe
+E:\Cworkspace\GameCs\GameCs\bin\Debug\GameCs.pdb
+E:\Cworkspace\GameCs\GameCs\obj\Debug\GameCs.csprojResolveAssemblyReference.cache
+E:\Cworkspace\GameCs\GameCs\obj\Debug\GameCs.exe
+E:\Cworkspace\GameCs\GameCs\obj\Debug\GameCs.pdb
